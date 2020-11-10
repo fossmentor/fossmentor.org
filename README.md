@@ -1,2 +1,2 @@
 # fossmentor.org
-The fossmentor.org website
+The fossmentor.org website assets
