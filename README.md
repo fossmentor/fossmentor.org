@@ -5,3 +5,5 @@ The fossmentor.org website assets
 - Download and install OpenShot
 - Unzip the video assets
 - Open the OpenShot project
+
+# Files
