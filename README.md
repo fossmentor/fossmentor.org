@@ -9,4 +9,4 @@ The fossmentor.org website assets
 # Files
 - What is FOSS.osp (OpenShot project file for What is FOSS)
 - Why use FOSS.osp (OpenShot project file for Why use FOSS)
- -How to create a FOSS project.osp (OpenShot project file for How to create a FOSS project)
+- How to create a FOSS project.osp (OpenShot project file for How to create a FOSS project)
