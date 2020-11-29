@@ -8,6 +8,7 @@ The fossmentor.org video assets
 - Unzip the video assets: https://drive.google.com/file/d/1pQYwuBnRiUXEczLzDL0Oc0VgpsGPQdTN/view?usp=sharing
 - Note: the assets folder must be in the same directory as the OpenShot (.osp) projects
 - Open the OpenShot projects
+- Note: you may need to modify the OpenShot project preferences and change the path to Blender
 
 # Files
 - Intro to Fossmentor.osp (OpenShot project file for Intro to Fossmentor)
