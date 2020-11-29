@@ -4,8 +4,8 @@ The fossmentor.org video assets
 # Steps to Use
 - Download and install OpenShot: https://www.openshot.org/download/
 - Download and install Blender: https://www.blender.org/download/
-- Unzip the video assets: https://drive.google.com/file/d/1pQYwuBnRiUXEczLzDL0Oc0VgpsGPQdTN/view?usp=sharing
-- Download the OpenShot projects from this repository (Note: the assets folder must be in the same directory as the OpenShot projects)
+- Download or clone repository which includes the license, readme, and OpenShot projects 
+- Unzip the video assets: https://drive.google.com/file/d/1pQYwuBnRiUXEczLzDL0Oc0VgpsGPQdTN/view?usp=sharing (Note: the assets folder must be in the same directory as the OpenShot projects)
 - Open the OpenShot projects
 
 # Files
