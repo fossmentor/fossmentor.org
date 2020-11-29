@@ -1,10 +1,12 @@
 # fossmentor.org
-The fossmentor.org website assets
+The fossmentor.org video assets
 
 # Steps to Use
-- Download and install OpenShot
-- Unzip the video assets
-- Open the OpenShot project
+- Download and install OpenShot: https://www.openshot.org/download/
+- Download and install Blender: https://www.blender.org/download/
+- Unzip the video assets: https://drive.google.com/file/d/1pQYwuBnRiUXEczLzDL0Oc0VgpsGPQdTN/view?usp=sharing
+- Download the OpenShot projects from this repository (Note: the assets folder must be in the same directory as the OpenShot projects)
+- Open the OpenShot projects
 
 # Files
 - What is FOSS.osp (OpenShot project file for What is FOSS)
