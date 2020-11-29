@@ -9,6 +9,8 @@ The fossmentor.org video assets
 - Open the OpenShot projects
 
 # Files
+- Intro to Fossmentor.osp (OpenShot project file for Intro to Fossmentor)
 - What is FOSS.osp (OpenShot project file for What is FOSS)
 - Why use FOSS.osp (OpenShot project file for Why use FOSS)
 - How to create a FOSS project.osp (OpenShot project file for How to create a FOSS project)
+- How to contribute to a FOSS project.osp (OpenShot project file for How to contribute to a FOSS project)
